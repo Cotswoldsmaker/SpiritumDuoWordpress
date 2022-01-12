@@ -2,6 +2,6 @@
 
 <a class="wp-block-button__link" href="https://spiritumduo.com/bio/dr-mark-a-bailey">Mark Bailey (Product lead)</a>
 
-<a class="wp-block-button__link" href="https://spiritumduo.com/bio/dr-mark-a-bailey">Joe Channing (computer sciences placement student)</a>
+<a class="wp-block-button__link" href="https://spiritumduo.com/bio/joe-channing">Joe Channing (computer sciences placement student)</a>
 
-<a class="wp-block-button__link" href="https://spiritumduo.com/bio/dr-mark-a-bailey">Nick Ives (computer sciences placement student)</a>
+<a class="wp-block-button__link" href="https://spiritumduo.com/bio/nick-ives">Nick Ives (computer sciences placement student)</a>
