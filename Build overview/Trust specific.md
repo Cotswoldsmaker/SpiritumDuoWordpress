@@ -1,1 +1,1 @@
-#Trust specific digital infrastructor
+#Trust specific digital infrastructure
