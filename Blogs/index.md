@@ -1,4 +1,4 @@
-<a href="./25-01-2022">25-01-2022 - Preparing for a stakeholders meeting</a>
+<a href="./25-01-2022">25-01-2022 - Preparing for a stakeholders meeting - Mark Bailey</a>
 
-<a href="./12-01-2022">12-01-2022 - I just discovered 'Git It Write'</a>
+<a href="./12-01-2022">12-01-2022 - I just discovered 'Git It Write' - Mark Bailey</a>
 
