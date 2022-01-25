@@ -2,3 +2,5 @@
 
 <a href="./12-01-2022">12-01-2022 - I just discovered 'Git It Write' - Mark Bailey</a>
 
+<a href="./14-08-2021">14-08-2021 - So what is Spiritum Duo? - Mark Bailey</a>
+
