@@ -13,3 +13,29 @@ So my supervisor asked if I could add tuberculosis and bronchiectasis to the Spi
 Some of the above functionality was carried out with robotic process automation (RPA). I started thinking, why not use RPA to speed up daily, routine clinical admin tasks. So I build a stand-alone RPA solution called Quick Spiritum. This connects to 9 clinicial systems, and showed a 30% reduction in the time to obtain results. It also can create and send referrals and requests for 4 diciplines. I have not studied the time savings with the latter functionality, but I would think it would be hours to days (as no need to hunt for paper request forms, send to the secretaries to then either fax, scan and email or post).
 
 So now we are at the next stage of my digital journey. My supervisor has asked me to create a new lung cancer pathway. And that is the reason you are here in the first place.
+
+The “Spiritum" app was unfortunately built in Microsoft Access 2010, so it is not really open source. I have done a QI project on this however and their is a poster PDF people can look at:
+
+https://www.gloshospitals.nhs.uk/media/documents/Mark_Bailey_-_Poster.pdf
+
+The "Quick Spiritum” RPA program is however open source and can be seen on gitHub at:
+
+https://github.com/Cotswoldsmaker/QuickSpiritum
+
+I have done an FCI hosted webinar on this program, which can be seen at:
+
+https://www.youtube.com/watch?v=aHEqIeTXUGE
+
+I have spoken both about the RPA program “Quick Spiritum” and the digital pathway work “Spiritum Duo” on an NHS SCW podcast:
+
+https://open.spotify.com/episode/5MR5Zj7kKehgFafeoVhOty
+
+The GitHub code for the cancer pathway is housed at:
+
+https://github.com/spiritumduo/spiritumDuo
+
+I hope to start writing blogs and documentation of the digital pathway work on the Spiritum Duo website at:
+
+https://www.spiritumduo.com/
+
+The logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo.
