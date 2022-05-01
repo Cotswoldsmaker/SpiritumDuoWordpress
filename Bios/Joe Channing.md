@@ -1,3 +1,8 @@
+---
+title: Joe Channing
+post_parent: index
+---
+
 ## About me
 
 I'm a university student studying Cyber and Computer Security BSc (Hons). I've had a fascination for technology since I was young but I've never really known where I'd like to go with it. I started my cyber security degree because that's where my interest lied during sixth form, however over the past couple of years I've engaged in multiple side projects which have allowed me to develop my understanding of programming through games modding and web development, and as a result of this - and working on Spiritum Duo - I've found I have a real passion for programming professionally. It's an added bonus that the work I'm able to do here can have real world benefits to people. I'm always down to learn new skills and technologies, reflected in the development of my knowledge with regards to the technologies used in SD.

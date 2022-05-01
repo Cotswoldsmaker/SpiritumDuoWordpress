@@ -1,3 +1,8 @@
+---
+title: Dr Mark A Bailey
+post_parent: index
+---
+
 I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.
 
 I have always had an interest in all things digital. I played on my Dad’s Apple II computer as a young child, and then played on a range of gaming consoles growing up. I started playing with internet-of-things in 2014 on the Arduino plateform, and started to automated my house for fun. I also learnt about python and linux when I started building my own webpage as part of the home automation.
