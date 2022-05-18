@@ -3,7 +3,7 @@ title: Joe Channing
 post_parent: index
 ---
 
-![alt text](/_images/Joe Channing.jpg "Picture of Joe Channing")
+![alt text](/_images/Joe_Channing.jpg "Picture of Joe Channing")
 
 ## About me
 

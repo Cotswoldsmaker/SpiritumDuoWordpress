@@ -3,7 +3,7 @@ title: Dr Mark A Bailey
 post_parent: index
 ---
 
-![alt text](/_images/Mark Bailey.jpg "Picture of Mark Bailey")
+![alt text](/_images/Mark_Bailey.jpg "Picture of Mark Bailey")
 
 I have had quite a few people ask me how did I get to the point where I am in regards to clinical informatics, and so I thought I would write a quick biography on the topic.
 

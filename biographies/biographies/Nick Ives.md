@@ -3,7 +3,7 @@ title: Nick Ives
 post_parent: index
 ---
 
-![alt text](/_images/Nick Ives.jpg "Picture of Nick Ives")
+![alt text](/_images/Nick_Ives.jpg "Picture of Nick Ives")
 
 ## About me
 
