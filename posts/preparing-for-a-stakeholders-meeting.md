@@ -1,6 +1,6 @@
 ---
 title: Preparing for a stakeholders meeting
-date: 2012-10-02 14:30
+date: 2022-10-02 14:30
 taxonomy:
     category: blog
     post_tag:
