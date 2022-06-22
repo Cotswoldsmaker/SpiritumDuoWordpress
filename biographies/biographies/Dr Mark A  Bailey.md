@@ -41,8 +41,6 @@ The GitHub code for the cancer pathway is housed at:
 
 https://github.com/spiritumduo/spiritumDuo
 
-I hope to start writing blogs and documentation of the digital pathway work on the Spiritum Duo website at:
-
-https://www.spiritumduo.com/
+I hope to start writing blogs and documentation of the digital pathway work on the Spiritum Duo website very soon.
 
 The logo that I design for Spiritum Duo is attached. The idea behind logo this is a dandelion being blown. As Spiritum Duo is latin for “breath two”, I thought it was a nice idea for a logo.
